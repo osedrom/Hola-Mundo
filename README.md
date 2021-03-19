@@ -1,2 +1,2 @@
-# Hola Mundo
- primeiro repositorio versionado
+# Hola, Mundo!
+ primeiro repositorio versionado sin complicaciones.
